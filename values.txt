@@ -1,0 +1,2 @@
+scopeuser=go-scope-user
+scopepass=go-scope-pass
